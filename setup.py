@@ -13,7 +13,7 @@ setup(
     keywords='',
     author='ElevenCraft, Inc.',
     author_email='matt@11craft.com',
-    url='',
+    url='http://github.com/gldnspud/multweettwiki',
     license='MIT',
     packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
     include_package_data=True,
