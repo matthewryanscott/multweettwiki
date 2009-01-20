@@ -21,5 +21,7 @@ setup(
     install_requires=[
     ],
     entry_points="""
+        [multweet]
+        twiki = multweettwiki.plugin:TwikiPlugin
     """,
     )
